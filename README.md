@@ -8,6 +8,8 @@ Commit #1
 ## Step 1 - Create a New Repository
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
 
+Commit #2
+
 The following options should be **disabled**/**unchecked**:
 - `Add a README file`
 - `Add .gitignore`
